@@ -346,7 +346,7 @@ footer {
     }
 
     header {
-        margin-top: 180px;
+        margin-top: 500px;
         height: 0vh;
         padding: 400px 0 340px 0;
     }
@@ -396,6 +396,7 @@ footer {
         margin-top: 250px;
     }
     .titles {
+        margin-top: 100px;
         flex-direction: column;
         align-items: center;
         padding: 15px;
