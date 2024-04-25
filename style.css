@@ -314,9 +314,6 @@ footer {
   @media (max-width: 767px){
     .menu {
         padding: 15px;
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
     }
 
     .menu label {
@@ -346,7 +343,7 @@ footer {
     }
 
     header {
-        margin-top: 500px;
+        margin-top: 350px;
         height: 0vh;
         padding: 400px 0 340px 0;
     }
