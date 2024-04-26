@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Me llamo Camila Oliva</h1>
 <h3 align="center">Soy una desarrolladora de Software apasionada con ganas de enfrentar nuevos desafíos.</h3>
-<h3 align="center">Aquí podrás ver mi portfolio -> https://caamio.github.io/</h3>
+<h3 align="center">Aquí podrás ver mi portfolio -> <a href="https://caamio.github.io/" target="_blank" />Ingresa aquí</a></h3>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP y MySQL**
 
@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/caamio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caamio" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/caamio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caamio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
