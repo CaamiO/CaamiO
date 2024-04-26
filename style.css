@@ -343,7 +343,7 @@ footer {
     }
 
     header {
-        margin-top: 350px;
+        margin-top: 250px;
         height: 0vh;
         padding: 400px 0 340px 0;
     }
@@ -361,7 +361,7 @@ footer {
 
     .content h1 {
         margin-top: 0;
-        font-size: 24px;
+        font-size: 48px;
     }
 
     .content p {
@@ -376,6 +376,7 @@ footer {
     }
     .header-content img {
         margin-top: 45px;
+        margin-bottom: 45px;
         width: 200px;
         height: 200px;
     }
@@ -416,7 +417,8 @@ footer {
     }
 
     .contact h2 {
-        font-size: 20px;
+        padding: 15px;
+        font-size: 30px;
         margin: 0 auto;
     }
 
