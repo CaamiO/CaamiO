@@ -311,9 +311,9 @@ footer {
     cursor: pointer;
   }
 
-  @media (max-width: 767px){
+  @media (max-width: 930px){
     .menu {
-        padding: 15px;
+        padding: 20px;
     }
 
     .menu label {
@@ -343,20 +343,19 @@ footer {
     }
 
     header {
-        margin-top: 250px;
-        height: 0vh;
-        padding: 400px 0 340px 0;
+       height: 0vh;
+       padding: 400px 0px 340px 0px;        
     }
     
     .header-content {
         flex-direction: column;
         text-align: center;
         align-items: center;
-        padding: 0 30px;
+        padding: 0px 30px;
     }
 
     .content {
-        padding: 0;
+        padding: 0px;
     }
 
     .content h1 {
@@ -370,27 +369,20 @@ footer {
 
     .btn-1 {
         margin-top: 15px;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
     }
     .header-content img {
         margin-top: 45px;
-        margin-bottom: 45px;
         width: 200px;
         height: 200px;
     }
 
     .services {
-        padding: 15px;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        
+        padding: 30px 10px 0px 10px;
+        flex-direction: column;        
     }
 
     .service {
-        margin-bottom: 35px;
+        margin-bottom: 50px;
     }
 
     .tec{
@@ -398,18 +390,17 @@ footer {
     }
     .titles {
         margin-top: 35px;
-        flex-direction: column;
         align-items: center;
-        padding: 15px;
+        padding: 0px 30px;
         text-align: center;
     }
 
     .title {
-        margin: 15px;
+        margin: 0px;
     }
 
     .contacts {
-        padding: 15px;
+        padding: 20px;
         flex-direction: column;
         justify-content: center;
         text-align: center;
@@ -427,7 +418,7 @@ footer {
     }
 
     footer {
-        padding: 30px;
+        padding: 20px;
         height: 30%;
         
     }
