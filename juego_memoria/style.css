@@ -27,19 +27,14 @@ button {
     width: 100px;
     font-size: 40px;
     font-weight: bold;
-    background-image: url(img/back.png);
-    background-size: cover;
-    background-position: center;
-    border: 1px solid #6a1b96;
+    background-color: #8f2dc477;
+    border: 1px solid #fff;
     border-radius: 8px;
 }
 
 button:hover {
     cursor: pointer;
     opacity: 0.7;
-    background-image: url(img/back-hover.png);
-    background-size: cover;
-    background-position: center;
 }
 
 .section2 {
@@ -51,21 +46,16 @@ button:hover {
 }
 
 #aciertos,
-#movimientos {
-    height: 65px;
-    width: 240px;
+#movimientos,
+#tiempo {
+    height: 105px;
+    width: 249px;
     border-radius: 8px;
     padding: 8px 15px;
     border: 1px solid #6a1b96;
 }
 
-#tiempo {
-    width: 249px;
-    height: 105px;
-    border-radius: 8px;
-    padding: 8px 15px;
-    border: 1px solid #6a1b96;
-}
+
 
 img {
     width: 80%;

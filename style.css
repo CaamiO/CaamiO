@@ -124,11 +124,12 @@ header {
 
 .services {
     padding: 0px 0;
-    display: flex;
-    justify-content: space-between;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
     text-align: center;
     color: #fff;
-    flex-wrap: wrap;
+    
 }
 
 .services h2{
@@ -138,7 +139,7 @@ header {
 .service {
     padding: 20px;
     margin: 10px 5px;
-    background-color: #1E90FF;
+    background-color: #1e8fffbe;
     border-radius: 10px;
     width: 350px;
     height: 250px;    
@@ -188,10 +189,10 @@ header {
 .project {
     padding: 20px;
     margin: 10px 5px;
-    background-color: #1E90FF;
+    background-color: #1e8fffbe;
     border-radius: 10px;
     width: 350px;
-    height: 350px;    
+    height: 300px;    
 }
 
 .project img {
@@ -203,7 +204,7 @@ header {
 
 .project h3 {
     font-size: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 .project a{
