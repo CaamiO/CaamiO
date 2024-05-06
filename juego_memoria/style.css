@@ -6,7 +6,7 @@ body {
 
 main {
     width: 800px;
-    margin: 45px auto;
+    margin: 20px auto;
     display: flex;
     align-items: center;
 }
@@ -39,7 +39,7 @@ button:hover {
 
 .section2 {
     width: 250px;
-    height: 400px;
+    height: 100%;
     border-top-right-radius: 8px;
     border-bottom-right-radius: 8px;
     padding: 0 20px;
@@ -55,16 +55,14 @@ button:hover {
     border: 1px solid #6a1b96;
 }
 
-
-
 img {
     width: 80%;
 }
 
 #reiniciar {
-    width: 200px;
+    width: 150px;
     height: 50px;
-    margin-left: 25px;
+    margin-left: 65px;
     color: black;
     background: #6a1b96;
     border-radius: 8px;
